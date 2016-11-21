@@ -1,1 +1,1 @@
-# info343-portfolio
+# INFO 343 Portfolio for Soojin Min
