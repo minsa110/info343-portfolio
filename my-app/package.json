@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://students.washington.edu/minsa110/info343/portfolio/info343-portfolio/my-app/",
+  "homepage": "https://students.washington.edu/minsa110/info343/info343-portfolio/",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
